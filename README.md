@@ -26,8 +26,9 @@ The dashboard is designed to help business stakeholders make **data-driven decis
 ---
 
 ## 📂 Dataset
-**Dataset Name**: [Sample Superstore Sales](Datasets)  
-**Dataset Files**: 2 csv files
+**Source**: [Sample Superstore Sales](Datasets)  
+**Format**: `.csv`
+**Size**: ~2,000 rows in 2 files
 **License**: Open dataset for educational purposes
 
 ---
