@@ -32,10 +32,10 @@ The dashboard is designed to help business stakeholders make **data-driven decis
 ---
 
 ## 📊 Key Insights
-- **Top-Performing Regions**: West and East regions contribute 60% of total revenue
-- **Most Profitable Category**: Office Supplies generates the highest profit margin
-- **Seasonal Trend**: Sales peak during Q4 each year
-- **High-Value Customers**: Top 10% of customers contribute 40% of total revenue
+- **Top-Performing States**: Uttar Pradesh, Tamil Nadu, and West Bengal are the 3 most performing states.
+- **Most Profitable Category**: Tables generate the highest profit margin, followed by Trousers and Stoles.
+- **Seasonal Trend**: Sales are particularly high throughout Q1.
+- **Payment Mode**: 43.74% of purchases were made using the Cash on Delivery (COD) payment method.
 
 ---
 
