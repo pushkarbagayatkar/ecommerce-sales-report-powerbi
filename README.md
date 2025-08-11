@@ -18,14 +18,15 @@ The dashboard is designed to help business stakeholders make **data-driven decis
 ## 🛠 Tools Used
 - **Power BI Desktop** – Data modeling, visualization, DAX calculations
 - **Excel** – Data preprocessing
+- **Power Query** - Data Preprocessing
 - **DAX** – Custom measures & KPIs
 - **Data Source** – Sample Superstore dataset
 
 ---
 
 ## 📂 Dataset
-**Dataset Name**: [Sample Superstore Sales](https://community.tableau.com/s/question/0D54T00000CWeW2SAL/sample-superstore-sales-excelxls)  
-**Dataset Size**: ~10,000 rows  
+**Dataset Name**: [Sample Superstore Sales](Datasets)  
+**Dataset Files**: 2 csv files
 **License**: Open dataset for educational purposes
 
 ---
@@ -38,11 +39,11 @@ The dashboard is designed to help business stakeholders make **data-driven decis
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+## 📸 Power BI Report (Dashboard) Preview
+![Dashboard](Images/1-Overview.jpg)
 
 ---
-
+<!--
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
 2. Open the file in **Power BI Desktop** (latest version recommended).
@@ -52,15 +53,8 @@ The dashboard is designed to help business stakeholders make **data-driven decis
    - Monthly trends and profit margins
 
 ---
+-->
 
 ## 📜 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-**Dataset License:** This dataset is provided by Kaggle and is subject to its respective license and terms of use. This project is for educational purposes only.
-
----
-
-## 📬 Contact
-For questions or feedback, reach out via:  
-📧 Email: *your.email@example.com*  
-💼 LinkedIn: [Pushkar Bagayatkar](your-linkedin-link)
