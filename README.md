@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Power BI)
+# 📊 E-Commerce Sales Report (Power BI)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
