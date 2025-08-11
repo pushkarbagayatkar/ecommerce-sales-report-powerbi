@@ -5,6 +5,7 @@
 ![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiPjwvc3ZnPg==&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1f77b4?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-ff7f0e?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
